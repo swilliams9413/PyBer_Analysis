@@ -4,7 +4,7 @@
 
 ## The purpose of this analysis was to compare the total weekly fares of Pyber's trips by city type i.e. urban, suburban, and rural.
 
-!(https://github.com/swilliams9413/PyBer_Analysis/blob/main/Analysis/Fig1.png)
+![1]https://github.com/swilliams9413/PyBer_Analysis/blob/main/Analysis/Fig1.png)
 
 # Results
 
