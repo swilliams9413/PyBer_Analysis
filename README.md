@@ -4,7 +4,7 @@
 
 ## The purpose of this analysis was to compare the total weekly fares of Pyber's trips by city type i.e. urban, suburban, and rural.
 
-![1]https://github.com/swilliams9413/PyBer_Analysis/blob/main/Analysis/Fig1.png)
+![1](https://github.com/swilliams9413/PyBer_Analysis/blob/main/Analysis/Fig1.png)
 
 # Results
 
@@ -12,7 +12,7 @@
 
 ## Upon close inspection of each city types data we found that rural cities produced the the highest fare per ride eventhough the total fares for rural cities were considerably lower than the total fares of suburban and urban cities. Additionally, the average fare per driver was considerably higher in rural cities. The data suggests there is a correlation between the total drivers and a the average fare per driver and per ride. The data seemed to illustrate diminishing returns on additional drivers.
 
-! (https://github.com/swilliams9413/PyBer_Analysis/blob/main/Analysis/Exhibit%20A.jpg)
+![2](https://github.com/swilliams9413/PyBer_Analysis/blob/main/Analysis/Exhibit%20A.jpg)
 
 # Summary
 
